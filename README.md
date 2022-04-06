@@ -1,7 +1,9 @@
 # ITBA-3207-Team-Big-Bytes
-- jasfer 
+- jasfer
 - angelo 
 - ramil 
 - garcia 
 - jr 
 - mushi
+#Bok
+#Bautista
